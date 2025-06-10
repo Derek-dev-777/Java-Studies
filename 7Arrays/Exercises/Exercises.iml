@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src7" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src8" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src11" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
