@@ -1,7 +1,7 @@
 package Application;
 
 import java.util.Scanner;
-import Entities.Pessoa1;
+import Entities.Pessoa;
 
 public class Program3 {
 
@@ -11,7 +11,7 @@ public class Program3 {
         System.out.println("Digite o tanto de pessoas a ser analisadas");
         int N = sc.nextInt();
         double soma = 0.0;
-        Pessoa1[] vetor = new Pessoa1[N];
+        Pessoa[] vetor = new Pessoa[N];
 
         for ( int i = 0; i < N ; i++){
             System.out.printf("Dados da %d° Pessoa%n", i);
@@ -22,7 +22,7 @@ public class Program3 {
             double altura = sc.nextDouble();
 
             soma += altura;
-            vetor[i] = new Pessoa1(nome,idade,altura);
+            vetor[i] = new Pessoa(nome,idade,altura);
         }
 
 

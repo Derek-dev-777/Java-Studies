@@ -18,7 +18,7 @@ public class Program9 {
             sc.nextLine();
             String nome = sc.nextLine();
             int idade = sc.nextInt();
-            pessoas[i] = new Pessoa1(nome, idade, altura);
+            pessoas[i] = new Pessoa1(nome, idade);
         }
         int index = 0;
 
