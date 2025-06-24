@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/10Enum&amp;Composicao/10Enum&amp;Composicao.iml" filepath="$PROJECT_DIR$/10Enum&amp;Composicao/10Enum&amp;Composicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/11HerancaPolimorfismo/11HerancaPolimorfismo.iml" filepath="$PROJECT_DIR$/11HerancaPolimorfismo/11HerancaPolimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/12Exceptions/12Exceptions.iml" filepath="$PROJECT_DIR$/12Exceptions/12Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13ReadingFiles/13ReadingFiles.iml" filepath="$PROJECT_DIR$/13ReadingFiles/13ReadingFiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/1EstruturaSequencial/1EstruturaSequencial.iml" filepath="$PROJECT_DIR$/1EstruturaSequencial/1EstruturaSequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/2EstruturaCondicional/2EstruturaCondicional.iml" filepath="$PROJECT_DIR$/2EstruturaCondicional/2EstruturaCondicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/3EstruturaRepetitiva/3EstruturaRepetitiva.iml" filepath="$PROJECT_DIR$/3EstruturaRepetitiva/3EstruturaRepetitiva.iml" />
@@ -14,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/8List/8List.iml" filepath="$PROJECT_DIR$/8List/8List.iml" />
       <module fileurl="file://$PROJECT_DIR$/9Datetime/9Datetime.iml" filepath="$PROJECT_DIR$/9Datetime/9Datetime.iml" />
       <module fileurl="file://$PROJECT_DIR$/7Arrays/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/7Arrays/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13ReadingFiles/FileAndScanner/FileAndScanner.iml" filepath="$PROJECT_DIR$/13ReadingFiles/FileAndScanner/FileAndScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13ReadingFiles/FileReadBufferedRead/FileReadBufferedRead.iml" filepath="$PROJECT_DIR$/13ReadingFiles/FileReadBufferedRead/FileReadBufferedRead.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Studies.iml" filepath="$PROJECT_DIR$/.idea/Java-Studies.iml" />
       <module fileurl="file://$PROJECT_DIR$/8List/src1/src1.iml" filepath="$PROJECT_DIR$/8List/src1/src1.iml" />
     </modules>
