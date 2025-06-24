@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/10Enum&amp;Composicao/10Enum&amp;Composicao.iml" filepath="$PROJECT_DIR$/10Enum&amp;Composicao/10Enum&amp;Composicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/11HerancaPolimorfismo/11HerancaPolimorfismo.iml" filepath="$PROJECT_DIR$/11HerancaPolimorfismo/11HerancaPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12Exceptions/12Exceptions.iml" filepath="$PROJECT_DIR$/12Exceptions/12Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/1EstruturaSequencial/1EstruturaSequencial.iml" filepath="$PROJECT_DIR$/1EstruturaSequencial/1EstruturaSequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/2EstruturaCondicional/2EstruturaCondicional.iml" filepath="$PROJECT_DIR$/2EstruturaCondicional/2EstruturaCondicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/3EstruturaRepetitiva/3EstruturaRepetitiva.iml" filepath="$PROJECT_DIR$/3EstruturaRepetitiva/3EstruturaRepetitiva.iml" />
