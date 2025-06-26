@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/7Arrays/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/7Arrays/Exercises/Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/13ReadingFiles/FileAndScanner/FileAndScanner.iml" filepath="$PROJECT_DIR$/13ReadingFiles/FileAndScanner/FileAndScanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/13ReadingFiles/FileReadBufferedRead/FileReadBufferedRead.iml" filepath="$PROJECT_DIR$/13ReadingFiles/FileReadBufferedRead/FileReadBufferedRead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13ReadingFiles/FileWriterBufferedWriter/FileWriterBufferedWriter.iml" filepath="$PROJECT_DIR$/13ReadingFiles/FileWriterBufferedWriter/FileWriterBufferedWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Studies.iml" filepath="$PROJECT_DIR$/.idea/Java-Studies.iml" />
       <module fileurl="file://$PROJECT_DIR$/8List/src1/src1.iml" filepath="$PROJECT_DIR$/8List/src1/src1.iml" />
     </modules>
